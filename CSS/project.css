@@ -1,0 +1,52 @@
+.collapse {
+    background-color: rgb(255, 250, 174);
+}
+
+.custom {
+    background-color: black;
+    height: 150px;
+    font: white;
+}
+
+.logo {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.nav {
+    box-shadow: 0 5px 10px #efefef;
+}
+
+.column {
+    width: 33.33%;
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+    color:white
+}
+
+.form {
+    padding: 25px 50px 75px;
+    background-color: rgb(253, 190, 245);
+}
+
+.footer {
+    color: white;
+    background-color:#563d7c;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+
+.card {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.mentor {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.video {
+    text-align: center;
+}
